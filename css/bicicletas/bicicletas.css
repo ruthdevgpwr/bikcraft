@@ -2,7 +2,7 @@
   background: linear-gradient(to right, var(--cor-0) 30%, var(--cor-11) 0%);
 }
 
-.biciletas {
+.bicicletas {
   display: grid;
   grid-template-columns: 1fr 1fr;
   gap: 40px;
@@ -90,7 +90,7 @@
   .bicicletas-conteudo {
     grid-template-columns: 1fr;
   }
-  .biciletas ul {
+  .bicicletas ul {
     font-size: 1rem;
     grid-template-columns: 1fr 1fr;
     margin-bottom: 32px;
